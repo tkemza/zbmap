@@ -145,7 +145,7 @@ arduino
 
 https://github.com/tkemza/zbmap
 or
-[Tkemza github](https://github.com/tkemza/zbmap)
+[Tkemza github](https://github.com/tkemza)
 
 **Copy the Repository URL:**
 
