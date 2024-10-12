@@ -25,7 +25,7 @@
 
 This toolkit contains materials that can be potentially damaging or dangerous for social media. Refer to the laws in your province/country before accessing, using,or in any other way utilizing this in a wrong way.
 
-This Tool is made for educational purposes only. Do not attempt to violate the law with anything contained here. If this is your intention, then Get the hell out of here!</b</p>
+This Tool is made for educational purposes only. Do not attempt to violate the law with anything contained here. If this is your intention, then Get the hell out of here!</b></p>
 
 <h2 align="center"><b>The creator will not be responsible for the consequences caused by this tool!</b></h2>
 
