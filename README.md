@@ -203,6 +203,19 @@ or
 ```bash
 ./zbmap.sh
 ```
+# How to run Update
+
++ Go to 'update' directory:
+
+```bash
+cd update
+```
+
++ Then type:
+
+```bash
+python3 update.py
+```
 
 # How to use ZBmap
 
