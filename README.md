@@ -1,5 +1,5 @@
 <p align="center" style="border: 1px solid black;">
-    <img src="pics/zbmap.png" alt="Page not found.">
+    <img src="pics/zb.png" alt="Page not found.">
 </p>
 
 <p align="center">
