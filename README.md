@@ -224,5 +224,5 @@ When you run the tool you can enter 'usage' into terminal and get to 'usage menu
 # Preview
 
 <p align="center" style="border: 1px solid black;">
-    <img src="pics/zbprv.png" alt="Page not found.">
+    <img src="pics/zbbmap.png" alt="Page not found.">
 </p>
